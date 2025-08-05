@@ -26,16 +26,16 @@ const Footer = () => {
         <div className="text-center md:text-right">
           <h4 className="text-lg font-semibold mb-2">Follow Me</h4>
           <div className="flex justify-center md:justify-end space-x-4">
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400">
+            <a href="https://linkedin.com/in/sakibul-setu" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400">
               <Linkedin className="w-5 h-5" />
             </a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400">
+            <a href="https://github.com/sakibulSetu" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400">
               <Github className="w-5 h-5" />
             </a>
-            <a href="https://facebook.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400">
+            <a href="https://facebook.com/sakib.sakibulhasansetu.54" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400">
               <Facebook className="w-5 h-5" />
             </a>
-            <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400">
+            <a href="https://instagram.com/___se__tu__/" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400">
               <Instagram className="w-5 h-5" />
             </a>
           </div>
